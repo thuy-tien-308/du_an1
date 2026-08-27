@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Vietnamese Famous Foods</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Vietnamese Famous Foods</h1>
+        <p>Three famous dishes you should try in Vietnam</p>
+    </header>
+
+
+    <main>
+
+        <section>
+            <h2>About Vietnamese Cuisine</h2>
+
+            <p>
+                Vietnamese cuisine is famous for its fresh ingredients,
+                balanced flavors and diverse dishes. 
+                Here are three popular Vietnamese foods that are loved
+                by both Vietnamese people and international visitors.
+            </p>
+        </section>
+
+
+        <section>
+            <h2>Famous Foods</h2>
+
+            <ol>
+                <li>
+                    <h3>Phở</h3>
+                    <p>
+                        Phở is one of the most famous Vietnamese dishes.
+                        It is a noodle soup served with beef or chicken,
+                        fresh herbs and a flavorful broth.
+                    </p>
+                </li>
+
+                <li>
+                    <h3>Bánh mì</h3>
+                    <p>
+                        Bánh mì is a Vietnamese sandwich made with a crispy
+                        baguette, meat, vegetables, herbs and special sauces.
+                    </p>
+                </li>
+
+                <li>
+                    <h3>Bánh xèo</h3>
+                    <p>
+                        Bánh xèo is a crispy Vietnamese pancake made from
+                        rice flour, filled with shrimp, pork and bean sprouts.
+                    </p>
+                </li>
+            </ol>
+        </section>
+
+
+        <section>
+            <h2>Gallery</h2>
+
+            <img src="pho.jpg"
+                 alt="Vietnamese Pho"
+                 width="250">
+
+            <img src="banh-mi.jpg"
+                 alt="Vietnamese Banh Mi"
+                 width="250">
+
+            <img src="banh-xeo.jpg"
+                 alt="Vietnamese Banh Xeo"
+                 width="250">
+        </section>
+
+
+        <section>
+            <h2>Learn More</h2>
+
+            <p>
+                Want to learn more about Vietnamese cuisine?
+            </p>
+
+            <a href="https://en.wikipedia.org/wiki/Vietnamese_cuisine"
+               target="_blank">
+                Learn more about Vietnamese cuisine
+            </a>
+        </section>
+
+    </main>
+
+
+    <footer>
+        <p>© 2026 Vietnamese Famous Foods</p>
+    </footer>
+
+</body>
+
+</html>
